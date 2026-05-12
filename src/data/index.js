@@ -103,13 +103,48 @@ export const certificationsData = [
     link: 'https://certificates.ccbp.in/academy/introduction-to-databases?id=OLRGSBPHGF',
   },
   {
-    title: 'HackWithAI Offline AI Hackathon',
-    issuer: 'Hackathons',
-    date: 'Feb 2026',
+    title: 'JavaScript',
+    issuer: 'Infosys Spring board',
+    date: 'May 11, 2026',
     image:
-      'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80',
+      '/Certificate.png',
+    link: 'https://drive.google.com/file/d/1aXlFPDOXfyaS3NIIutSLGtb2dSsKuZ3s/view?usp=sharing',
+  },
+  {
+    title: ' Demux Hackathon,2025',
+    issuer: 'BVRIT',
+    date: 'September 17,2025',
+    image:
+      '/Certificate5.png',
+    link: 'https://drive.google.com/file/d/1UN6_jEhmqGCCnahe_nZDncleZ8wRffvJ/view?usp=sharing',
+  },
+  {
+    title: ' GenAiVersity Hackathon 2025',
+    issuer: 'GenAiVersity',
+    date: 'Oct 25,2025',
+    image:
+      '/Certificate2.png',
+    link: 'https://drive.google.com/file/d/1BwdpbQV4YDvn3u2t5LlaD_QSQMizLkLz/view?usp=sharing',
+  },
+
+  {
+    title: 'HackWithAI Offline AI Hackathon',
+    issuer: 'KLH',
+    date: 'Feb 28,2026',
+    image:
+      '/Certificate4.png',
     link: 'https://d2c-cdn-mumbai.s3.ap-south-1.amazonaws.com/lambda-pdfs/certificate-images/20611b95-8281-4467-998d-8bd5c9f7ac43.pdf',
   },
+
+  {
+    title: ' Hackfiniti Hackathon,2026',
+    issuer: 'BVRIT',
+    date: 'March 25,2026',
+    image:
+      '/Certificate3.png',
+    link: 'https://drive.google.com/file/d/1DFBaoQCy8BP2lvyaF0Q8cpQ172SpQdW1/view?usp=sharing',
+  },
+
 ];
 
 export const experienceTimeline = [
